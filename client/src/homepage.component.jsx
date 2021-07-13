@@ -5,35 +5,35 @@ const HomePage = () => (
         <div className='directory-menu'>
             <div className='menu-item'>
                 <div className='content'>
-                    <div className='title'>IPAS</div>
+                    <div className='title'>COOLERS</div>
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
             </div>
 
             <div className='menu-item'>
                 <div className='content'>
-                    <div className='title'>SOURS</div>
+                    <div className='title'>DRINKWARE</div>
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
             </div>
 
             <div className='menu-item'>
                 <div className='content'>
-                    <div className='title'>STOUTS</div>
+                    <div className='title'>BAGS</div>
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
             </div>
 
             <div className='menu-item'>
                 <div className='content'>
-                    <div className='title'>SELTZERS</div>
+                    <div className='title'>GEAR</div>
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
             </div>
 
             <div className='menu-item'>
                 <div className='content'>
-                    <div className='title'>MILKSHAKES</div>
+                    <div className='title'>CUSTOM</div>
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
             </div>
